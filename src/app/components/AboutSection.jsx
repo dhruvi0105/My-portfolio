@@ -55,7 +55,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I am a pre-final year computer science student at VIT Chennai with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). My skills include SQL, PostgreSQL, and data structures and algorithms in C++. I am proficient in Python, with experience in Tkinter, NumPy, and Pandas. Additionally, I am advancing my knowledge in machine learning, Spring Boot, and Spring Security. I look forward to contributing to Google&apos;s innovative projects and learning from your esteemed team.
+          I am a pre-final year computer science student at VIT Chennai with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). My skills include SQL, PostgreSQL, and data structures and algorithms in C++. I am proficient in Python, with experience in Tkinter, NumPy, and Pandas. Additionally, I am advancing my knowledge in machine learning, Spring Boot, and Spring Security. I look forward to contributing to different innovative projects and learning from different teams. Always open for collaborations.  
   </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
